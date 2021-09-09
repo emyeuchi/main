@@ -5,8 +5,8 @@ h1 {
   padding: 0;
   font-size: 30px;
 }
-h2 { color: white !important }
-h3 { color: white !important } 
+h2 { color: #316745 !important }
+h3 { color: #316745 !important } 
 @font-face {
     font-family: "liene";
     src: url("https://static.miraheze.org/umipediawiki/5/5f/Liene-Regular.ttf");  format('ttf');
@@ -66,7 +66,7 @@ nav {
 .box {
   padding: 0.5em 1em;
   margin: 2em 0;
-  color: white;
+  color: black;
   background: #aacf53;
   border: solid 3px #ebd842;
   border-radius: 10px;
