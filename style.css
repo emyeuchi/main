@@ -31,7 +31,7 @@ header {
   width: 100%;
   padding: 30px 4% 10px;
   position: fixed;
-  background-color: #aacf53;
+  background-color: #316745;
   top: 0;
   display: flex;
   align-items: center;
@@ -68,13 +68,16 @@ nav {
   margin: 2em 0;
   color: white;
   background: #aacf53;
-  border: solid 3px white;
+  border: solid 3px #ebd842;
   border-radius: 10px;
+}
+a.box{
+  text-decoration: none;
 }
 footer {
   width: 100%;
   padding: 10px 0 10px;
-  background-color: #aacf53;
+  background-color: #316745;
   position: fixed;
   bottom: 0;
   display: flex;
